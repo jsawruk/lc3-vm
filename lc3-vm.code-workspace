@@ -6,7 +6,9 @@
 	],
 	"settings": {
 		"files.associations": {
-			"mman.h": "c"
+			"mman.h": "c",
+			"termios.h": "c",
+			"core.h": "c"
 		}
 	}
 }
