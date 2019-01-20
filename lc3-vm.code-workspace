@@ -8,7 +8,10 @@
 		"files.associations": {
 			"mman.h": "c",
 			"termios.h": "c",
-			"core.h": "c"
+			"core.h": "c",
+			"read-image.h": "c",
+			"input-buffering.h": "c",
+			"time.h": "c"
 		}
 	}
 }

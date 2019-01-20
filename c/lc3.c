@@ -11,11 +11,12 @@
 #include <sys/termios.h>
 #include <sys/mman.h>
 
-#include "bit-utilities.h"
-#include "core.h"
-#include "input-buffering.h"
+#include "../core/bit-utilities.h"
+#include "../core/core.h"
+#include "../core/input-buffering.h"
+#include "../core/read-image.h"
+
 #include "instruction-set.h"
-#include "read-image.h"
 
 // Standard fetch/execute cycle using switch statement
 void fetchExecute() {

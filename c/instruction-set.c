@@ -1,5 +1,5 @@
-#include "bit-utilities.h"
-#include "core.h"
+#include "../core/bit-utilities.h"
+#include "../core/core.h"
 #include "instruction-set.h"
 
 #include <stdio.h>

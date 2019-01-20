@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
+#include "bit-utilities.h"
 #include "read-image.h"
 
 // Read an executable file into memory
